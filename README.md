@@ -5,10 +5,8 @@
 
 ## مدرک دوره هایی که من برای برنامه نویس شدن در حوزه C# - Asp.Net Core گذراندم شامل :
 
-<a href="https://www.daneshjooyar.com/git-and-github/">
-  <img src="https://www.daneshjooyar.com/cf/mxSGldOE3j" alt="دوره آموزش Git و GitHub جامع با نسخه 2024" width="600" height="auto" style="max-width: 100%;"/>
-</a>
-
+![Test Image 4](https://www.daneshjooyar.com/cf/yvE4RwPGj9/)
+![Test Image 4](https://www.daneshjooyar.com/wp-content/uploads/2024/05/Comprehensive-Git-and-GitHub-training-Fa-min.jpg)
 
 
 
