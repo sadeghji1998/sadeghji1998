@@ -7,10 +7,10 @@
 
 
 <a href="https://www.daneshjooyar.com/csharp-pishrafte/">
-  <img src="https://www.daneshjooyar.com/cf/yvE4RwPGj9/" alt="آموزش جامع php" width="600" height="400" style="max-width: 100%;"/>
+  <img src="https://www.daneshjooyar.com/cf/yvE4RwPGj9/" alt="آموزش جامع php" width="500" height="400" style="max-width: 100%;"/>
 </a>
 
 <a href="https://www.daneshjooyar.com/git-and-github/">
-  <img src="https://www.daneshjooyar.com/wp-content/uploads/2024/05/Comprehensive-Git-and-GitHub-training-Fa-min.jpg" alt="آموزش جامع php" width="600" height="400" style="max-width: 100%;"/>
+  <img src="https://www.daneshjooyar.com/cf/RarvuLOQXK/" alt="آموزش جامع php" width="500" height="400" style="max-width: 100%;"/>
 </a>
 
