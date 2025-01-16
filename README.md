@@ -7,7 +7,7 @@
 <a href="https://www.daneshjooyar.com/csharp-pishrafte/">
   <img src="https://www.daneshjooyar.com/cf/yvE4RwPGj9/" alt="آموزش جامع php" width="300" height="200" style="max-width: 100%;"/>
 </a>
-<a href="https://www.daneshjooyar.com/%D8%B3%DB%8C-%D8%B4%D8%A7%D8%B1%D9%BE/">
+<a href="https://www.daneshjooyar.com/cf/jXrPB4KpqH/">
   <img src="https://www.daneshjooyar.com/cf/jXrPB4KpqH" alt="آموزش جامع php" width="300" height="200" style="max-width: 100%;"/>
 </a>
 <a href="https://www.daneshjooyar.com/git-and-github/">
